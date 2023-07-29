@@ -31,4 +31,5 @@ date 29.07
   6. Initialized in Git by commands //git config --global user.name//
                                    //git config --global user.email//                               
   
+  7.  I know commands add and commit
 
