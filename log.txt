@@ -30,5 +30,6 @@ date 29.07
   5. Installed Git
   6. Initialized in Git by commands //git config --global user.name//
                                    //git config --global user.email//                               
-  7.  I know commands git add, commit and push
+  7. I know commands git add, commit and push
+  8. I repeat
 
