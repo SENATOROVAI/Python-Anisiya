@@ -19,3 +19,16 @@
     - клонировать репозиторий
     - add commit
 4) Установка VS code
+
+date 29.07
+
+1)Working on ubuntu:
+  1. Install package (apps)
+  2. In the beginning it's better to choose expansion .deb or span
+  3. Also there is archive tar.xz
+  4. Working by terminal (ctrl+shift+t)
+  5. Installed Git
+  6. Initialized in Git by commands //git config --global user.name//
+                                   //git config --global user.email//                               
+  
+
