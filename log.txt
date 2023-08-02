@@ -33,7 +33,7 @@ date 29.07
   7. I know commands git add, commit and push
   8. I repeat
 
-  date 31.07
+ date 31.07
 
 Checked homework
   1)Designed a GitHub profile
@@ -41,5 +41,11 @@ Checked homework
     1. Codeforces
     2. Project Euler
     3. LeetCode 
-  
+
+ date 02.08
+
+Working with GitHub:
+  1) Fork
+Working with colleague
+Introduction with Kormen
 
