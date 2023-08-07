@@ -49,3 +49,8 @@ Working with GitHub:
 Working with colleague
 Introduction with Kormen
 
+date 05.08
+
+Math: exponential notation
+
+
