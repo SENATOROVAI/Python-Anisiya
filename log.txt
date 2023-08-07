@@ -53,4 +53,16 @@ date 05.08
 
 Math: exponential notation
 
+date 07.08
+
+1) Learning vs code 
+2) Repeated of previous lessons 
+3) Created a virtual environment (like 0_0) 
+4) Worked with the terminal
+5) Repeated the "ed" rule 
+   Pronounce:
+  1. id - if the last letter of the word is d or t
+  2. t - after the voiceless letters
+  3. d - after the voice letters
+
 
