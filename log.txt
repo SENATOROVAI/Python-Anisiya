@@ -74,5 +74,36 @@ date 07.08
        "c"
     3. The - [θ] and [ði:],[ðe:]
     4. G
+    
+    date 23.08
 
+  1) Ordering the real numbers
 
+    date 26.08
+
+  1) Properties of the numbers
+  2) Exponents and scientific notation
+  3) The negative-exponent rule 
+
+    date 28.08
+
+  1) The product rule for roots
+  2) The product rule for square roots 
+  3) The quotient rule for square roots
+  4) Adding and subtracting square roots
+  5) Rationalizing denominators
+
+   date 30.08
+
+  1) Other kinds of roots
+  2) Finding nth roots of perfect nth powers
+  3) The product quotient rules for nth roots
+
+   date 02.09
+
+  1. Integral
+  2. Polynomials:
+  1) The degree of ax^n
+  2) Definition of a polynomial in x
+  3) Adding and subtracting polynomials
+  4) The product of binomials: Foil
