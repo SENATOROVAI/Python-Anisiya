@@ -107,3 +107,5 @@ date 07.08
   2) Definition of a polynomial in x
   3) Adding and subtracting polynomials
   4) The product of binomials: Foil
+
+ 
