@@ -108,4 +108,14 @@ date 07.08
   3) Adding and subtracting polynomials
   4) The product of binomials: Foil
 
- 
+   date 26.10
+    
+  1. Checking the homework
+  2. Making a portfolio:
+  1) Change name
+  2) Familiarized with information security
+   
+   date 02.11
+   
+  1. Solving tasks on LeetCode
+  2. Creating a graph of a linear function
