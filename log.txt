@@ -119,3 +119,16 @@ date 07.08
    
   1. Solving tasks on LeetCode
   2. Creating a graph of a linear function
+
+   date 09.11
+
+  1. Linear equations and pational equations
+  2. Definition of a linear equation
+  3. Factoring trinomials
+  4. Models and applications 
+  5. Common formuals for area, perimetr, and volume
+  6. Complex numbers
+
+   date 11.11
+
+  1. Equations and inequalites
