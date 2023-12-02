@@ -132,3 +132,10 @@ date 07.08
    date 11.11
 
   1. Equations and inequalites
+
+   date 02.12
+
+  1. Repetition:
+  1) Fanctions
+  2) Complex numbers
+  3) Linear equations

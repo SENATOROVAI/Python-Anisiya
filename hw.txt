@@ -3,58 +3,58 @@
 Алгоритмы (Зарегаться + просто ознакомиться с заданиями):
 
 
-1)https://codeforces.com/
-https://codeforces.com/problemset/problem/4/A
+1)https://codeforces.com/ Done
+https://codeforces.com/problemset/problem/4/A Done
 
-2)https://projecteuler.net/archives
-https://projecteuler.net/problem=1
+2)https://projecteuler.net/archives Done
+https://projecteuler.net/problem=1 Done
 
-3)https://leetcode.com/
-https://leetcode.com/problems/palindrome-number/
+3)https://leetcode.com/ Done
+https://leetcode.com/problems/palindrome-number/Done
 
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people   
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people  Done
             
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI Done
    
-2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme Done
 
 
 Алгоритмы:
 1)скачать
-https://t.me/c/1733865840/429
+https://t.me/c/1733865840/429 Done
 
                                                                         
 дискретка (математика для прогеров):
-1)https://t.me/c/1733865840/43
+1)https://t.me/c/1733865840/43 Done
 
 system design:
 скачать 
-https://library.samdu.uz/download/20642
+https://library.samdu.uz/download/20642 Done
 
 Data Science (зарегаться):
-1) https://www.kaggle.com/code/alexisbcook/titanic-tutorial
+1) https://www.kaggle.com/code/alexisbcook/titanic-tutorial Done
 
 27/07
 
 
-1) https://t.me/SenatorovBootcamp/888/4762
-2)https://t.me/SenatorovBootcamp/888/5002
-3)https://t.me/SenatorovBootcamp/888/5109
-4)https://t.me/SenatorovBootcamp/888/5231
-5) https://t.me/SenatorovBootcamp/1/5243
+1) https://t.me/SenatorovBootcamp/888/4762 Done
+2)https://t.me/SenatorovBootcamp/888/5002 Done
+3)https://t.me/SenatorovBootcamp/888/5109 Done
+4)https://t.me/SenatorovBootcamp/888/5231 Done
+5) https://t.me/SenatorovBootcamp/1/5243 processing!!!!!!!!!!!!!!!!!!
 
 
 31/07
 
-1) Доделать домашку по математике, раскидать в разные PDF
-2) отписаться в чате
+1) Доделать домашку по математике, раскидать в разные PDF Done
+2) отписаться в чате Done
 
 
 09/05/23
 Linear algebra 
-1) https://lab.karpov.courses/learning/253/module/2697/ 
+1) https://lab.karpov.courses/learning/253/module/2697/ later
 
 congratulations!!!
 
