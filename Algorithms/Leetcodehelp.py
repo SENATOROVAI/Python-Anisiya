@@ -6,3 +6,4 @@ class Solution:
             xor = xor ^ start
             start+=2
         return xor
+
