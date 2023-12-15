@@ -7,3 +7,5 @@ class Solution:
             start+=2
         return xor
 
+
+#https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
