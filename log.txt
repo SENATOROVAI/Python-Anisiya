@@ -136,6 +136,15 @@ date 07.08
    date 02.12
 
   1. Repetition:
-  1) Fanctions
+  1) Functions
   2) Complex numbers
   3) Linear equations
+
+   date 16.12
+  
+  1. Did KC
+  2. Did pull request
+  3. Learn:
+     1) Bitwise operator
+     2) XOR operator
+  4. Did Kaggle
