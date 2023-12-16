@@ -1,6 +1,11 @@
 #https://codeforces.com/problemset/problem/1335/A
-# solve 1
-# for n in[*open(0)][1:]:print(int(n)-1>>1)
+# solve 1 
+# for n in[*open(0)][1:]:print(int(n)-1>>1) - помогите разобрать решение
+
+
+
+
+# ##########################################
 # solve 2
 # import math
 # for _ in range(int(input())):
@@ -18,5 +23,6 @@
 #     else:
 #         print(a // 2)
 
-#Спасибо!!
+
+
 
