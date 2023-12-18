@@ -8,10 +8,10 @@ for n in[*open(0)][1:]:print(int(n)-1>>1) # - помогите разобрат�
 
 # solve 2
 # import math
-# for _ in range(int(input())):
+# for _ in range(int(input())): #  что означает _ ?
 #     n = int(input())
 #     if(n>2):
-#         print(math.ceil(n/2)-1)
+#         print(math.ceil(n/2)-1) # что делает math.ceil?
 #     else:
 #         print(0)
 # solve 3
