@@ -1,7 +1,8 @@
 #https://codeforces.com/problemset/problem/1335/A
 # solve 1 
-# for n in[*open(0)][1:]:print(int(n)-1>>1) - помогите разобрать решение
-
+for n in[*open(0)][1:]:print(int(n)-1>>1) # - помогите разобрать решение 
+#1) for - это цикл
+#2) другие коллеги помогут
 
 
 
