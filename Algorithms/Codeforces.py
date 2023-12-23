@@ -25,6 +25,8 @@ for n in[*open(0)][1:]:print(int(n)-1>>1) # - помогите разобрат�
 #         print(math.ceil(n/2)-1) # что делает math.ceil?
 #     else:
 #         print(0)
+
+
 # solve 3
 # n = int(input())
 # for i in range(n):
