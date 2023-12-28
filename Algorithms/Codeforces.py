@@ -35,7 +35,28 @@ for n in[*open(0)][1:]:print(int(n)-1>>1) # - помогите разобрат�
 #     else:
 #         print(a // 2)
 
+#solve1
+k,r=map(int,input().split());i=1
+while 0!=i*k%10!=r:i+=1
+print(i)
 
+#solve2
+k,r=map(int,input().split())
+flag=0
+temp=k
+i=0
+while(flag==0):
+    i+=1
+    k=temp*i
+    if(k%10==0 or k%10==r):
+        flag=1
+print(i)
 
-
-
+#solve3
+n,k = map(int, input().split())
+s=1
+d = n
+while (n%10!=k and n%10!=0):
+    n+=d
+    s+=1
+print(s)
