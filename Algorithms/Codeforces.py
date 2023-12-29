@@ -25,7 +25,6 @@ for n in[*open(0)][1:]:print(int(n)-1>>1) # - помогите разобрат�
 #     else:
 #         print(0)
 
-
 # solve 3
 # n = int(input())
 # for i in range(n):
@@ -35,28 +34,70 @@ for n in[*open(0)][1:]:print(int(n)-1>>1) # - помогите разобрат�
 #     else:
 #         print(a // 2)
 
+===========================================================================================================
+
+#https://codeforces.com/problemset/problem/732/A
+
 #solve1
-k,r=map(int,input().split());i=1
-while 0!=i*k%10!=r:i+=1
-print(i)
+#k,r=map(int,input().split());i=1
+#while 0!=i*k%10!=r:i+=1
+#print(i)
 
 #solve2
-k,r=map(int,input().split())
-flag=0
-temp=k
-i=0
-while(flag==0):
-    i+=1
-    k=temp*i
-    if(k%10==0 or k%10==r):
-        flag=1
-print(i)
+#k,r=map(int,input().split())
+#flag=0
+#temp=k
+#i=0
+#while(flag==0):
+    #i+=1
+    #k=temp*i
+    #if(k%10==0 or k%10==r):
+        #flag=1
+#print(i)
 
 #solve3
-n,k = map(int, input().split())
-s=1
-d = n
-while (n%10!=k and n%10!=0):
-    n+=d
-    s+=1
-print(s)
+#n,k = map(int, input().split())
+#s=1
+#d = n
+#while (n%10!=k and n%10!=0):
+    #n+=d
+    #s+=1
+#print(s)
+
+===========================================================================================================
+
+#https://codeforces.com/problemset/problem/1154/A
+
+#solve1
+#a,b,c,d=sorted(map(int,input().split()))
+#print(d-a,d-b,d-c)
+
+#solve2
+#x = list(map(int, input().split()))
+#sum = max(x)
+#x.pop(x.index(sum))
+#for i in x:
+    #print(sum - i,end=" ")
+
+#solve3
+#nums = list(map(int,input().split()))
+#abc= max(nums)
+#nums.remove(abc)
+#for nin in nums:
+	#print(abc-nin,end =" ")
+
+===========================================================================================================
+
+#
+
+#solve1
+#x,y,l,c,d,p,a,b=map(int,input().split());print(min(y*l//a,c*d,p//b)//x)
+
+#solve2
+#n,k,l,c,d,p,nl,np=list(map(int,input().split()))
+#a=[]
+#a.append((k * l) // nl)
+#a.append(c * d)
+#a.append(p // np)
+#print(min(a) // n)
+
