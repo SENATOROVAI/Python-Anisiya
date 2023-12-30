@@ -148,3 +148,10 @@ date 07.08
      1) Bitwise operator
      2) XOR operator
   4. Did Kaggle
+
+   date 30.12
+
+  1. Create pull request
+  2. Code analysis
+  3. Did KC
+  
