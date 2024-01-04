@@ -155,3 +155,8 @@ date 07.08
   2. Code analysis
   3. Did KC
   
+   date 04.01
+
+  1. Got KC certificate
+  2. Sent a pull request
+  3. Registered with ODS
