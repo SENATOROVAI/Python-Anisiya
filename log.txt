@@ -160,3 +160,11 @@ date 07.08
   1. Got KC certificate
   2. Sent a pull request
   3. Registered with ODS
+
+   date 06.01
+
+  1. Introduction to algebra. 8th class:
+     1) Symbols - quantifiers
+     2) The basic laws of arithmetic and algebra
+     3) NOD and NOC
+     4) The NOC search algorithm
