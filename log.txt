@@ -168,3 +168,9 @@ date 07.08
      2) The basic laws of arithmetic and algebra
      3) NOD and NOC
      4) The NOC search algorithm
+
+   date 25.01
+
+  1. Proportion
+  2. Function range/domain of a function
+  3. Even/odd function, neither even nor odd function
