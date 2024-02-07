@@ -174,3 +174,15 @@ date 07.08
   1. Proportion
   2. Function range/domain of a function
   3. Even/odd function, neither even nor odd function
+
+   date 03.02
+
+  1. Function research:
+     1) The SFD (D)
+     2) Even/odd f.
+     3) The point of intersection 
+     4) Frequency of the f.
+     5) Zeros of the f.
+     6) Decreasing f.
+     7) Extreme points
+     8) The SFV (E) 
