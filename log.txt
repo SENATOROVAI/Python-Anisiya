@@ -186,3 +186,16 @@ date 07.08
      6) Decreasing f.
      7) Extreme points
      8) The SFV (E) 
+
+   date 10.02
+
+  1. The power function 
+  2. Graph of functions:
+     1. Linear
+     2. Cubic parabola
+     3. Biquadrate parabola
+     4. Hyperbole
+     5. A function with a rational exponent
+     6. Logarithmic function 
+  3. Inverse proportional dependence 
+     
