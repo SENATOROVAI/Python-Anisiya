@@ -31,16 +31,14 @@ def write_path(end, start):
 
 # в постановке задачи сперва задаются столбики, потом строки,
 # переставим по-питонячи: сперва строки, потом столбики
-courier_location = (courier_location[1], courier_location[0])
+#courier_location = (courier_location[1], courier_location[0])
 orders_location = [(j, i) for i, j in orders_location]
 
 # наш путь сохранять будем в:
 route = []
 
 # к адресам доставки добавим исходную точку
-locations = orders_location.insert(0, courier_location)
-
-size = len(city_map_list)
+#locations = orders_location.insert(0, courier_location)
 
 # алгоритм BFS на всем поле (потом надо будет сделать до ближайшей точки).
 # В словаре parents запоминаем откуда пришли в данную ячейку
