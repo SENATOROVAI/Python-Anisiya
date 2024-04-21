@@ -1,3 +1,5 @@
+"""module from work with karpov hw"""
+
 # from collections import deque
 # def find_new_neighbors(coordinate):
 #     """
