@@ -29,7 +29,7 @@ date 29.07
   4. Working by terminal (ctrl+shift+t)
   5. Installed Git
   6. Initialized in Git by commands //git config --global user.name//
-                                   //git config --global user.email//                               
+                                   //git config --global user.email//
   7. I know commands git add, commit and push
   8. I repeat
 
@@ -40,7 +40,7 @@ Checked homework
   2)Registered in:
     1. Codeforces
     2. Project Euler
-    3. LeetCode 
+    3. LeetCode
 
  date 02.08
 
@@ -55,11 +55,11 @@ Math: exponential notation
 
 date 07.08
 
-1) Learning vs code 
-2) Repeated of previous lessons 
-3) Created a virtual environment (like 0_0) 
+1) Learning vs code
+2) Repeated of previous lessons
+3) Created a virtual environment (like 0_0)
 4) Worked with the terminal
-5) Repeated the "ed" rule 
+5) Repeated the "ed" rule
    Pronounce:
   1. id - if the last letter of the word is d or t
   2. t - after the voiceless letters
@@ -70,11 +70,11 @@ date 07.08
   1) Math: sets
   2) Phonetics:
     1. Pronunciation of ED
-    2. Pronunciation of "c", or sounds of the letter 
+    2. Pronunciation of "c", or sounds of the letter
        "c"
     3. The - [θ] and [ði:],[ðe:]
     4. G
-    
+
     date 23.08
 
   1) Ordering the real numbers
@@ -83,12 +83,12 @@ date 07.08
 
   1) Properties of the numbers
   2) Exponents and scientific notation
-  3) The negative-exponent rule 
+  3) The negative-exponent rule
 
     date 28.08
 
   1) The product rule for roots
-  2) The product rule for square roots 
+  2) The product rule for square roots
   3) The quotient rule for square roots
   4) Adding and subtracting square roots
   5) Rationalizing denominators
@@ -109,14 +109,14 @@ date 07.08
   4) The product of binomials: Foil
 
    date 26.10
-    
+
   1. Checking the homework
   2. Making a portfolio:
   1) Change name
   2) Familiarized with information security
-   
+
    date 02.11
-   
+
   1. Solving tasks on LeetCode
   2. Creating a graph of a linear function
 
@@ -125,7 +125,7 @@ date 07.08
   1. Linear equations and pational equations
   2. Definition of a linear equation
   3. Factoring trinomials
-  4. Models and applications 
+  4. Models and applications
   5. Common formuals for area, perimetr, and volume
   6. Complex numbers
 
@@ -141,7 +141,7 @@ date 07.08
   3) Linear equations
 
    date 16.12
-  
+
   1. Did KC
   2. Did pull request
   3. Learn:
@@ -154,7 +154,7 @@ date 07.08
   1. Create pull request
   2. Code analysis
   3. Did KC
-  
+
    date 04.01
 
   1. Got KC certificate
@@ -180,22 +180,21 @@ date 07.08
   1. Function research:
      1) The SFD (D)
      2) Even/odd f.
-     3) The point of intersection 
+     3) The point of intersection
      4) Frequency of the f.
      5) Zeros of the f.
      6) Decreasing f.
      7) Extreme points
-     8) The SFV (E) 
+     8) The SFV (E)
 
    date 10.02
 
-  1. The power function 
+  1. The power function
   2. Graph of functions:
      1. Linear
      2. Cubic parabola
      3. Biquadrate parabola
      4. Hyperbole
      5. A function with a rational exponent
-     6. Logarithmic function 
-  3. Inverse proportional dependence 
-     
+     6. Logarithmic function
+  3. Inverse proportional dependence

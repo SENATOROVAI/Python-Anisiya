@@ -15,9 +15,9 @@ https://leetcode.com/problems/palindrome-number/Done
 
 git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people  Done
-            
+
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI Done
-   
+
 2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme Done
 
 
@@ -25,12 +25,12 @@ git:
 1)скачать
 https://t.me/c/1733865840/429 Done
 
-                                                                        
+
 дискретка (математика для прогеров):
 1)https://t.me/c/1733865840/43 Done
 
 system design:
-скачать 
+скачать
 https://library.samdu.uz/download/20642 Done
 
 Data Science (зарегаться):
@@ -53,7 +53,7 @@ Data Science (зарегаться):
 
 
 09/05/23
-Linear algebra 
+Linear algebra
 1) https://lab.karpov.courses/learning/253/module/2697/ later
 
 congratulations!!!
@@ -61,4 +61,4 @@ congratulations!!!
 09/13
 
 1) https://t.me/SenatorovBootcamp/1/5243 дедлайн, дедлайн конец октября
-2) https://stepik.org/course/63085/ дедлайн, конец ноября 
+2) https://stepik.org/course/63085/ дедлайн, конец ноября
