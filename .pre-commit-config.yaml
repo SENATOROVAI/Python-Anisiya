@@ -122,10 +122,7 @@ repos:
         require_serial: true
         types_or: [jupyter, markdown]
         additional_dependencies: [mypy]
-        args:
-          - --ignore-missing-imports
-          - --exclude=codeforces.ipynb
-          - --exclude=leetcode.ipynb
+        args: ["--ignore-missing-imports"]
 
   - repo: https://github.com/pre-commit/mirrors-mypy
     rev: v1.9.0
